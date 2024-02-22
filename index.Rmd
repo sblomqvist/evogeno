@@ -3,7 +3,7 @@ title: "My Repo site"
 author: "Sofia"
 date: "2024-02-22"
 output: html_document
-theme: cerulean
+theme: readable
 ---
 
 ## My Github Repo Page
